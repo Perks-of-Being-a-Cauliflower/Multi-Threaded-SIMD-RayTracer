@@ -1,0 +1,12 @@
+﻿  Config.cpp
+  ImageIO.cpp
+  Intersection.cpp
+  Lighting.cpp
+  Raytrace.cpp
+  Scene.cpp
+  Texturing.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 491 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Stage4.vcxproj -> C:\Users\wdcta\OneDrive\Desktop\Folders\KIT308\Assignment 2 Submission William Colbert 414747\Multi-Threaded SIMD RayTracer\Release\Stage4.exe
